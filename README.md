@@ -2,6 +2,6 @@
 
 mta-sts well-known page for marliesslomp.nl domain. https://www.hardenize.com/blog/mta-sts
 
-This repo contains mta-sts rules for landegge.nl domain and runs github pages to serve the content.
+This repo contains mta-sts rules for marliesslomp.nl domain and runs github pages to serve the content.
 
 https://mta-sts.marliesslomp.nl/.well-known/mta-sts.txt
